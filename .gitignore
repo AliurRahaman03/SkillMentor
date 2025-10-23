@@ -1,0 +1,38 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode settings folder
+.vscode/
+
+# Python virtual envs
+env/
+venv/
+myvenv/
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+
+# Secrets and env files
+.env
+.env.*
+
+# Pycache
+__pycache__/
+
+# IDEs
+.idea/
+
+# migrations (if you manage them in the repo, remove this)
+migrations/
+
+# Other
+*.sqlite3
+*.db
